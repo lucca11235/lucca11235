@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Here are somethings about me:<br><br>📚 Senior Undergraduate Student in Artificial Intelligence at Federal University of Goiás (UFG) - Brazil<br><br>🧠​ Machine Learning Researcher at CEIA (Artificial Intelligence Center of Excellence)<br><br>👨‍💻 NLP, Heuristics and Reinforcement Learning is my passion</p>
+<p align="left">Here are somethings about me:<br><br>📚 Senior Undergraduate Student in Artificial Intelligence at Federal University of Goiás (UFG) - Brazil<br><br>🧠​ Machine Learning Researcher at CEIA (Artificial Intelligence Center of Excellence)<br><br>👨‍💻 NLP, Heuristics and Reinforcement Learning are my passions</p>
 
 ###
 
@@ -45,3 +45,18 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucca11235&theme=aura" />
 </a>
+
+###
+
+<h2 align="left">💻 Social</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/lucca-emmanuel/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="luccaemmanuel@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
